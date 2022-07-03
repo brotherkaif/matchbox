@@ -5,7 +5,6 @@
  \ \_\ \ \_\ \_\ \_\ \ \_\\ \_____\ \_\ \_\ \_____\ \_____\/\_\/\_\
   \/_/  \/_/\/_/\/_/  \/_/ \/_____/\/_/\/_/\/_____/\/_____/\/_/\/_/
 
-
 ```
 # Matchbox
 Matchbox is a command line utility to assist with the encryption and decryption of GPG messages.
