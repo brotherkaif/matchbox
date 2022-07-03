@@ -1,6 +1,18 @@
-oclif-hello-world
-=================
+# Matchbox
+```
+        _________________________________
+       /⠡   /            __      __     /\
+      /  ⠡ / __ _  ___ _/ /_____/ /    /..\
+     /    / /  ' \/ _ `/ __/ __/ _ \  /   /
+    /    / /_/___/\____\__/\__/_//_/ /   /
+   /    /    / _ )/ __ \| |/_/      /   /
+  /    /    / _  / /_/ />  <       /   /
+ /    /    /____/\____/_/|_|      /   /
+/____/___________________________/   /
+\    \                           \  /
+ \____\___________________________\/
 
+```
 oclif example Hello World CLI
 
 [![oclif](https://img.shields.io/badge/cli-oclif-brightgreen.svg)](https://oclif.io)
@@ -153,7 +165,7 @@ ALIASES
   $ matchbox plugins add
 
 EXAMPLES
-  $ matchbox plugins:install myplugin 
+  $ matchbox plugins:install myplugin
 
   $ matchbox plugins:install https://github.com/someuser/someplugin
 
@@ -213,7 +225,7 @@ ALIASES
   $ matchbox plugins add
 
 EXAMPLES
-  $ matchbox plugins:install myplugin 
+  $ matchbox plugins:install myplugin
 
   $ matchbox plugins:install https://github.com/someuser/someplugin
 
